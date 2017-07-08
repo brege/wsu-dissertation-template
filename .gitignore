@@ -1,0 +1,26 @@
+# Auto-generated pdf
+/dissertation.pdf
+
+# References repository
+/References
+
+# Temporary editor files
+*~
+*.swp
+\#*\#
+.\#*
+.DS_Store
+
+# TeX products
+*.aux
+*.log
+*.lof
+*.lot
+*.toc
+*.bbl
+*.bbg
+*.blg
+*.out
+*.bak
+#*.bib
+*.synctex.gz
